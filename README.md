@@ -6,9 +6,9 @@ README
 
 |方向|说明|链接|
 |---|---|---|
-|Web|Jelly.K.Wang@qq.com|[前往]()|
-|Misc|Jelly.K.Wang@qq.com|[前往]()||
-|Pwn|Jelly.K.Wang@qq.com|[前往]()||
-|Reverse|Jelly.K.Wang@qq.com|[前往]()||
-|Crypto|Jelly.K.Wang@qq.com|[前往]()||
+|Web|Jelly.K.Wang@qq.com|[前往](/Web/)|
+|Misc|Jelly.K.Wang@qq.com|[前往](/Misc/)|
+|Pwn|Jelly.K.Wang@qq.com|[前往](/Pwn/)|
+|Reverse|Jelly.K.Wang@qq.com|[前往](/Reverse/)|
+|Crypto|Jelly.K.Wang@qq.com|[前往](/Crypto/)|
 ****
