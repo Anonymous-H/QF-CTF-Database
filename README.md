@@ -14,27 +14,27 @@ README
 
 ****
 ## 目录结构及说明
-* ### Web
+* ### Web:存放Web相关的学习资料
     * 1
     * 2
     * 3
     * 4
-* ### Misc
+* ### Misc:存放Misc相关的学习资料
     * 1
     * 2
     * 3
     * 4
-* ### Pwn
+* ### Pwn:存放Pwn相关的学习资料
     * 1
     * 2
     * 3
     * 4
-* ### Reverse
+* ### Reverse:存放Reverse相关的学习资料
     * 1
     * 2
     * 3
     * 4
-* ### Crypto
+* ### Crypto:存放Crypto相关的学习资料
     * 1
     * 2
     * 3
