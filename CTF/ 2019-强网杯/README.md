@@ -10,6 +10,7 @@ README
 |Web|随便注|[前往](https://github.com/CTFTraining/qwb_2019_supersqli)|
 |Web|高明的黑客|[前往](https://github.com/CTFTraining/qwb_2019_smarthacker)|
 |Web|强网先锋-上单（未找到docker环境）|[前往]()|
+|Misc|待添加|[前往](/Pwn/)|
 |Pwn|待添加|[前往](/Pwn/)|
 |Reverse|待添加|[前往](/Reverse/)|
 |Crypto|待添加|[前往](/Crypto/)|
